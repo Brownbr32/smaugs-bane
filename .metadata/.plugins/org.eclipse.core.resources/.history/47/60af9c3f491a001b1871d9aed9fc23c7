@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="server3Test" location="C:/Users/DSmac/workspace/server3Test" platform="C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="server3Test_system" sysConfig="server3_wrapper" runtime="cpp" cpu="domain_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="7e1f4e1d5b04a7f6f8e1234498060fe5">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.512754646">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.41690260" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

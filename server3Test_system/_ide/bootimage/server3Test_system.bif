@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/sw/server3_wrapper/boot/fsbl.elf
+	C:/Users/DSmac/workspace/server3Test/_ide/bitstream/server3_wrapper.bit
+	C:/Users/DSmac/workspace/server3Test/Debug/server3Test.elf
+}

@@ -1,0 +1,10 @@
+11:12:21 **** Build of configuration Debug for project helloWorld_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 59491 C:/Users/DSmac/workspace/ZyboHelloVitis/export/ZyboHelloVitis/ZyboHelloVitis.xpfm standalone_domain C:/Users/DSmac/workspace/helloWorld_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/DSmac/workspace/ZyboHelloVitis/export/ZyboHelloVitis/ZyboHelloVitis.xpfm --sys_config ZyboHelloVitis --bif C:/Users/DSmac/workspace/helloWorld_system/Debug/system.bif --bitstream C:/Users/DSmac/workspace/helloWorld/_ide/bitstream/design_1_wrapper.bit --elf C:/Users/DSmac/workspace/helloWorld/Debug/helloWorld.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/DSmac/workspace/helloWorld/_ide/bitstream/design_1_wrapper.bit
+Running E:/Xilinx/Vitis/2020.1/bin/bootgen  -image C:/Users/DSmac/workspace/helloWorld_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+11:12:30 Build Finished (took 9s.370ms)
+

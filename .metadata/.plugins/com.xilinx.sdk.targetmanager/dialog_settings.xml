@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="echoTest2-bmmFile"/>
+	<item value="" key="echoTest-bmmFile"/>
+	<item value="server3Test" key="programfpga.sdxproject"/>
+	<item value="Auto Detect" key="echoTest-device"/>
+	<item value="_ide/bitstream/server3_wrapper.bit" key="server3Test-bitFile"/>
+	<item value="Auto Detect" key="serverEcho-device"/>
+	<item value="false" key="serverEcho-skip_rev_check"/>
+	<item value="_ide/bitstream/design_1_wrapper.bit" key="echoTest2-bitFile"/>
+	<item value="C:\Users\DSmac\workspace\design_1_wrapper_1\bitstream\design_1_wrapper.bit" key="echoTest-bitFile"/>
+	<item value="Auto Detect" key="server3Test-device"/>
+	<item value="" key="server3Test-bmmFile"/>
+	<item value="Auto Detect" key="echoTest2-device"/>
+	<item value="false" key="server3Test-skip_rev_check"/>
+	<item value="false" key="echoTest-partial_bit"/>
+	<item value="_ide/bitstream/design_1_wrapper.bit" key="serverEcho-bitFile"/>
+	<item value="Local" key="echoTest-target"/>
+	<item value="Local" key="server3Test-target"/>
+	<item value="false" key="server3Test-partial_bit"/>
+	<item value="Local" key="echoTest2-target"/>
+	<item value="false" key="echoTest2-skip_rev_check"/>
+	<item value="false" key="echoTest-skip_rev_check"/>
+	<item value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Zybo Z7 210351A819C8A&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Zybo Z7-210351A819C8A-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-Zybo Z7-210351A819C8A-13722093-0&quot;}}]}" key="devices_info_Local"/>
+	<item value="false" key="serverEcho-partial_bit"/>
+	<item value="false" key="echoTest2-partial_bit"/>
+	<item value="" key="serverEcho-bmmFile"/>
+	<item value="Local" key="serverEcho-target"/>
+</section>

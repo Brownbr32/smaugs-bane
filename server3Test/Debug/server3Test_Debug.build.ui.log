@@ -1,0 +1,10 @@
+2020-10-29T18:45:33.364693100255-18:45:33 **** Incremental Build of configuration Debug for project server3Test ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-make[1]: Nothing to be done for 'main-build'.
+00255-
+18:45:34 Build Finished (took 1s.17ms)
+

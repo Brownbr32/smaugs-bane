@@ -1,0 +1,12 @@
+/* C:/Users/DSmac/AppData/Local/Temp/bootgen_serverClientBasic_system2890773592580989651/sd_card_temp/boot.bif */
+/* Command to create bitstream .bin file:       */
+/*   bootgen -image <bif_file> -split bin -w    */
+/* Command to create BOOT.BIN file:             */
+/*   bootgen  -image <bif_file> -w -o i BOOT.BIN */
+/*design_Client1_wrapper*/
+the_ROM_image:
+{
+ [bootloader] C:/Users/DSmac/workspace/design_Client1_wrapper/export/design_Client1_wrapper/sw/design_Client1_wrapper/boot/fsbl.elf
+ C:/Users/DSmac/workspace/serverClientBasic/_ide/bitstream/design_Client1_wrapper.bit
+ C:/Users/DSmac/workspace/serverClientBasic/Debug/serverClientBasic.elf
+}

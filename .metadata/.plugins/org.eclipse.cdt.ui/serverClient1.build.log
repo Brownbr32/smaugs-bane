@@ -1,0 +1,10 @@
+15:48:00 **** Incremental Build of configuration Debug for project serverClient1 ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+
+15:48:01 Build Finished (took 686ms)
+

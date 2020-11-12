@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="recieve_data" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="recieve_data"/>
+			<item value="transfer_data"/>
+			<item value="recv_callback"/>
+			<item value="server_netif"/>
+			<item value="echo_netif"/>
+			<item value="netif"/>
+			<item value="ipaddr"/>
+			<item value="ip"/>
+			<item value="ip_addr_set"/>
+			<item value="LWIP_IPV6"/>
+			<item value="ip_addr"/>
+			<item value="mac_ethernet_address"/>
+			<item value="tcp_sent"/>
+			<item value="tpcb"/>
+			<item value="tcp_send_perf_traffic"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="277" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="370" key="DIALOG_HEIGHT"/>
+		<item value="994" key="DIALOG_X_ORIGIN"/>
+		<item value="128" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

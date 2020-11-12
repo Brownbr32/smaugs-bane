@@ -1,0 +1,54 @@
+TRACE::2020-10-09.11:59:48::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-09.11:59:49::SCWBifWriter::hardware databse : design_1_wrapper_6
+TRACE::2020-10-09.11:59:49::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-09.11:59:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-09.11:59:49::SCWBifWriter::proc type : 
+TRACE::2020-10-09.11:59:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-09.11:59:49::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-09.11:59:49::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-09.11:59:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-10-09.12:03:13::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-09.12:03:14::SCWBifWriter::hardware databse : design_1_wrapper_6
+TRACE::2020-10-09.12:03:14::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-09.12:03:14::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-09.12:03:14::SCWBifWriter::proc type : 
+TRACE::2020-10-09.12:03:14::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-09.12:03:14::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-09.12:03:14::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-09.12:03:14::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-10-29.13:55:04::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-29.13:55:05::SCWBifWriter::hardware databse : design_1_wrapper
+TRACE::2020-10-29.13:55:05::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-29.13:55:05::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-29.13:55:05::SCWBifWriter::proc type : 
+TRACE::2020-10-29.13:55:05::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-29.13:55:05::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-29.13:55:05::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-29.13:55:05::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-10-29.18:25:33::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-29.18:25:34::SCWBifWriter::hardware databse : design_1_wrapper
+TRACE::2020-10-29.18:25:34::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-29.18:25:34::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-29.18:25:34::SCWBifWriter::proc type : 
+TRACE::2020-10-29.18:25:34::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-29.18:25:34::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-29.18:25:34::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-29.18:25:34::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-10-29.18:30:38::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-29.18:30:39::SCWBifWriter::hardware databse : design_1_wrapper_1
+TRACE::2020-10-29.18:30:39::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-29.18:30:39::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-29.18:30:39::SCWBifWriter::proc type : 
+TRACE::2020-10-29.18:30:39::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-29.18:30:39::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-29.18:30:39::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-29.18:30:39::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2020-10-29.18:45:41::SCWBifWriter::Found the complete platform C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/server3_wrapper.xpfm
+TRACE::2020-10-29.18:45:41::SCWBifWriter::hardware databse : design_1_wrapper
+TRACE::2020-10-29.18:45:41::SCWBifWriter::bitstream found in the design
+TRACE::2020-10-29.18:45:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-10-29.18:45:41::SCWBifWriter::proc type : 
+TRACE::2020-10-29.18:45:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-10-29.18:45:41::SCWBifWriter::Device type is : zynq
+TRACE::2020-10-29.18:45:41::SCWBifWriter::Writing BIF to file : C:/Users/DSmac/workspace/server3Test_system/Debug/system.bif
+TRACE::2020-10-29.18:45:41::SCWBifWriter::Writing the Zynq Baremetal bif 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="server3Test_system" key="programflash.hwplatform"/>
+	<item value="C:/Users/DSmac/workspace/server3Test_system/_ide/bootimage/BOOT.bin" key="server3Test_system-imgFile"/>
+	<item value="Auto Detect" key="server3Test_system-device"/>
+	<item value="Local" key="server3Test_system-target"/>
+	<item value="false" key="server3Test_system-blankCheck"/>
+	<item value="false" key="server3Test_system-verifyFlash"/>
+	<item value="" key="server3Test_system-offSet"/>
+	<item value="C:/Users/DSmac/workspace/server3_wrapper/export/server3_wrapper/sw/server3_wrapper/boot/fsbl.elf" key="server3Test_system-fsblFile"/>
+	<item value="qspi-x4-single" key="server3Test_system-flashType"/>
+</section>

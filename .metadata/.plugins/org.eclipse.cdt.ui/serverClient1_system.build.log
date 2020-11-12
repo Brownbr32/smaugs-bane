@@ -1,0 +1,10 @@
+15:48:02 **** Incremental Build of configuration Debug for project serverClient1_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 51366 C:/Users/DSmac/workspace/design_Client1_wrapper/export/design_Client1_wrapper/design_Client1_wrapper.xpfm domain_ps7_cortexa9_0 C:/Users/DSmac/workspace/serverClient1_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/DSmac/workspace/design_Client1_wrapper/export/design_Client1_wrapper/design_Client1_wrapper.xpfm --sys_config design_Client1_wrapper --bif C:/Users/DSmac/workspace/serverClient1_system/Debug/system.bif --bitstream C:/Users/DSmac/workspace/serverClient1/_ide/bitstream/design_Client1_wrapper.bit --elf C:/Users/DSmac/workspace/serverClient1/Debug/serverClient1.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/DSmac/workspace/serverClient1/_ide/bitstream/design_Client1_wrapper.bit
+Running E:/Xilinx/Vitis/2020.1/bin/bootgen  -image C:/Users/DSmac/workspace/serverClient1_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+15:48:09 Build Finished (took 6s.899ms)
+

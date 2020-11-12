@@ -1,0 +1,7 @@
+/*server3*/
+the_ROM_image:
+{
+  [bootloader]<server3/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}
